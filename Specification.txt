@@ -1,0 +1,216 @@
+Property Web application for landloard to manage thier proprties. It should be 3 portals 1. Landlord 2.  
+Tenant  3. Property Manager.  Design and develop a web application with having three portals.  
+The following are the features and functionality including the Bookkeping section which is required to meet up for this project.
+
+Real estate management software is technology that makes asset and property management easier. 
+It helps landlords, investors, agents, maintenance technicians and other real estate professionals track 
+and execute projects and data more efficiently. It will also makes renting easier for tenants because it will allows them 
+to make payments, sign leases, request support and otherwise manage their accounts online. Our real estate 
+management software will includes integrated solutions for bookeeping section as well.	
+The following list are the features and options must be in this software.
+
+	1. Stakeholders or User of the software:
+		-Landlord 	
+		-Property Manger 	
+		-Tenant 
+		-Agent 	
+		-Accountant 
+							
+	2. Profile: 						
+						
+		-Landlord 						
+		-Property Manger 						
+		-Tenant 						
+		-Agent 						
+		-Accountant 						
+		-Service Provider						
+		-Sellers						
+		-Property  						
+							
+	3. Calendar 						
+							
+	4. Real Estate 						
+		-Buy						
+		-Sales						
+	5. Rental 						
+		-Rental Agreement 						
+		-Moving 						
+		-Condition Inspection 						
+		-Notices						
+		-Utilities						
+	6. Repair and Maintenance 						
+		-Report a Damage 						
+		-Job Order						
+		-Property Inspection 						
+							
+	7. Financial						
+		-Receipt						
+		-Payments						
+		-Mortgage 						
+		-Loans 						
+								
+	8. Messages 						
+		-New 						
+		-Inbox						
+		-Sent						
+		-Trash 						
+		-Flagged						
+								
+	9. Reports 						
+							
+	10. List 						
+		-Property(s)						
+		-Tenants						
+		-Payments						
+		-receipts						
+		-Mortgage						
+							
+		-Deposits						
+							
+							
+	11. Unpaid 						
+		-Bills						
+		-Rents						
+		-Loans						
+								
+							
+	12. Cash Flow 						
+							
+	13. Vacancy Report 	
+
+
+The following data field and information are usually keep as record. 
+1. Landlord Profile:
+	-Landlord's full name
+	-Address
+	-Phone number
+	-Email address
+	-Profile picture
+	-Contact information
+2. Property Details:
+	-Property addresses
+	-Property type (house, apartment, condo, etc.)
+	-Number of bedrooms and bathrooms
+	-Square footage
+	-Year built
+	-Special features or amenities (pool, garage, etc.)
+	-Geolocation for each property
+	-Size of the property for each part:
+		•	Size of the residential suite
+		•	Size of common property/shared areas
+3 Inside a Residential Suite:
+	-Bedroom(s):
+		•	Number of bedrooms in the suite
+		•	Size (square footage) of each bedroom
+	-Bathroom(s):
+		•	Number of bathrooms in the suite
+		•	Type (full, half, ensuite, etc.) and size of each bathroom
+	-Kitchen:
+		•	Description of the kitchen amenities and appliances (oven, refrigerator, dishwasher, etc.)
+		•	Size and layout of the kitchen area
+	-Living Room:
+		•	Description of the living room space, including any additional features like a fireplace or built-in entertainment center
+		•	Size (square footage) of the living room
+	-Dining Room:
+		•	Description of the dining area, whether it's part of the living room or a separate space
+		•	Size and capacity for dining
+	-Patio or Balcony:
+		•	Presence of a patio or balcony, and its size and accessibility
+	-Solarium or Sunroom:
+		•	Presence of a solarium or sunroom, if applicable
+		•	Size and additional features like skylights or large windows
+	-Study Room or Home Office:
+		•	Description of any designated study or home office space within the suite
+		•	Size and any built-in storage or shelving
+	-Closets:
+		•	Number and size of closets in the suite
+		•	Walk-in closets, built-in storage, or any other unique features
+	-Laundry Room or Area:
+		•	Presence of a dedicated laundry room or a laundry area within the suite
+		•	Description of the available laundry facilities
+	-Additional Rooms:
+		•	Description of any other rooms or unique spaces within the suite, such as a den, media room, or guest room
+		•	Size and specific use of each additional room
+4. Common Property (Shared Areas in Residential Building):
+	-Hallways:
+		•	Description of the hallways leading to the residential suites
+		•	Size and any additional features like lighting or artwork
+	-Elevator or Staircase:
+		•	Presence of elevators or staircases for accessing different floors within the building
+		•	Size and accessibility
+	-Lobby or Reception Area:
+		•	Description of the building's lobby or reception area
+		•	Size and any seating or waiting areas
+	-Fitness Center or Gym:
+		•	Description of the building's fitness center or gym, if available to residents
+		•	Size and available exercise equipment
+	-Parking Garage:
+		•	Description of the parking garage or parking facilities for residents
+		•	Number of parking spaces and any designated areas
+	-Common Outdoor Spaces:
+		•	Description of any shared outdoor spaces like courtyards, gardens, or terraces
+		•	Size and available amenities (seating, BBQ area, etc.)
+	-Meeting Room or Community Room:
+		•	Presence of a meeting room or community room that residents can utilize
+		•	Size and any available equipment or facilities
+	-Mailroom:
+		•	Description of the mailroom or mailbox area for receiving mail and packages
+		•	Size and organization of the mailroom
+	-Repair and Maintenance Records:
+		•	Track records of repairs and maintenance performed on each property or suite.
+		•	Details of the maintenance tasks, dates, and the responsible parties.
+5. Job Orders:
+	-A system for creating and managing job orders for repair and maintenance tasks.
+	-Assigning tasks to contractors or property management staff.
+	-Tracking the progress of job orders until completion.
+6. Property Inspection:
+	-Schedule and conduct property inspections to assess the condition of the property.
+	-Record inspection findings and any issues identified.
+	-Plan necessary actions based on inspection results.
+7. Utility Accounts:
+	-Manage utility accounts for each property, including but not limited to:
+	-Phone
+	-Internet
+	-Water
+	-Natural Gas
+	-Electricity
+	-Trash collection
+	-Sewage
+	-Heating and cooling services
+	-Keep records of utility account details, payments, and usage history.
+8. Marketing:
+	-Posting rental or sales applications.
+	-Tracking the status of posted applications (Posted, Received, etc.).
+9. Property Vacancy and Occupancy Log:
+	-Record property vacancies with start and end dates.
+	-Log tenant names for occupied properties.
+10. Bookkeeping Records and Transactions:
+	-Purchase
+	-Sales
+	-Petty Cash
+	-Payment
+		•	Direct Payment
+		•	Indirect Payment
+	-Receipt
+		•	Direct Receipt
+		•	Indirect Receipt
+	-Undeposited Funds
+	-Deposits
+	-Transfer Fund
+	-General Journal
+	-Bad Debt and Collection
+11. Settings:
+	-Configure application settings and preferences.
+12. Reports:
+	-Generate Income Statement (Profit and Loss Statement) for financial analysis.
+
+						
+Design and develop a MySql database schema for this software.						
+						
+						
+						
+Normalize the above table attribute and designe a nomalied table and write a MySql Schema for the tables.						
+						
+						
+						
+						
